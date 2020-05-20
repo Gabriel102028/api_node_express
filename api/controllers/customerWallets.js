@@ -26,6 +26,10 @@ module.exports = app => {
         res.status(201).json(customerWalletsMock);
     }
 
+    controller.removeCustomerWallets = () => {
+        
+    }
+
     return controller;
 
 }
