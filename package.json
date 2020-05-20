@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "consign": "^0.1.6",
-    "uuid": "^8.0.0"
+    "uuid": "^8.1.0",
+    "uuid-v4": "^0.1.0"
   }
 }
